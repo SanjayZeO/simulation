@@ -84,6 +84,10 @@ $(document).ready(() => {
         //only unique sector
         allsector = uniqueArray(allsector);
 
+
+        // kasdfh asdhfad fjsadf jdasf
+        // fkaskjfahsd fsdajf jsd
+        // asdhfasdjfkjsdaf
         //all topic data
         jsonData.forEach(el => {
             if (el["topic"])
